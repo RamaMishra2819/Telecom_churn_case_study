@@ -1,4 +1,4 @@
-# Telecom_churn_case_study
+# Telecom_churn_Rate_case_study
 ### Problem Statement
  
 
